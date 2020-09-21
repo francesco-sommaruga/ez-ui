@@ -1,0 +1,22 @@
+{
+  "name": "ez-ui",
+  "version": "1.0.0",
+  "description": "The most customizable css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francesco-sommaruga/ez-ui.git"
+  },
+  "author": "Francesco Sommaruga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francesco-sommaruga/ez-ui/issues"
+  },
+  "homepage": "https://github.com/francesco-sommaruga/ez-ui#readme",
+  "dependencies": {
+    "sass": "^1.26.11"
+  }
+}
