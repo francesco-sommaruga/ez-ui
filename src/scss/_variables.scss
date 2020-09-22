@@ -1,4 +1,27 @@
 // colors
 
-$main-bg: #fff;
-$main: #000;
+$main-bg:                                    #0f171c;
+$items-bg:                                   #1b2a32;
+$text-color:                                 #fff;
+$main:                                       #000;
+
+//margins and paddings
+$margin-small:                                 5px;
+$margin:                                       10px;
+$margin-large:                                 15px;
+
+$padding-small:                                5px;
+$padding:                                      10px;
+$padding-large:                                15px;
+
+// breakpoints
+
+$breakpoint-small:                             640px;  // Phone landscape
+$breakpoint-medium:                            960px;  // Tablet Landscape
+$breakpoint-large:                             1200px; // Desktop
+$breakpoint-xlarge:                            1600px; // Large Screens
+
+$breakpoint-xsmall-max:                        ($breakpoint-small - 1);
+$breakpoint-small-max:                         ($breakpoint-medium - 1);
+$breakpoint-medium-max:                        ($breakpoint-large - 1);
+$breakpoint-large-max:                         ($breakpoint-xlarge - 1);

@@ -1,0 +1,53 @@
+//margin and paddings amounts are defined in _variables.scss
+
+//margins
+
+.margin-small{
+    margin: $margin-small;
+}
+
+.margin {
+    margin: $margin;
+}
+
+.margin-large {
+    margin: $margin-large;
+}
+
+.margin-top-small {
+    margin-top: $margin-small;
+}
+
+.margin-top {
+    margin-top: $margin;
+}
+
+.margin-top-large {
+    margin-top: $margin-large;
+}
+
+//paddings
+
+.padding-small {
+    padding: $padding-small;
+}
+
+.padding {
+    padding: $padding;
+}
+
+.padding-large {
+    padding: $padding-large;
+}
+
+.padding-top-small {
+    padding-top: $padding-small;
+}
+
+.padding-top {
+    padding-top: $padding;
+}
+
+.padding-large-top {
+    padding-top: $padding-large;
+}
